@@ -1,1 +1,1 @@
-var firstName = "Marcus", lastName = "King", yearOfStudy = 1, goal = "to obtain flexible employment that supplements and supports my continuing education.";
+var myFirstName = "Marcus", myLastName = "King", myYearOfStudy = 1, myGoal = "to obtain flexible employment that supplements and supports my continuing education.";
