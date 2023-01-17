@@ -1,2 +1,4 @@
-*.replit
+.git
+.gitignore
+.replit
 replit.nix
